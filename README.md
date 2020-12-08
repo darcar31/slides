@@ -1,6 +1,3 @@
 # slides
-Daria Caraway's slides from previous conference talks.
+Daria Caraway's conference talk slides! 
 
-# conferences
-
-https://2019.cascadiajs.com/
