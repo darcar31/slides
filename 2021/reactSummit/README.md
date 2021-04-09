@@ -4,7 +4,7 @@ by Daria Caraway
 [Conference Website](https://remote.reactsummit.com/)
 
 ## Resources
-[Talk Slides](https://www.example.com)
+[Talk Slides](https://github.com/darcar31/slides/blob/main/2021/reactSummit/InternationalizingReact-ReactSummit.pdf)
 
 ### Useful Articles 
 [Free Code Camp: How to get started with internationalization in JavaScript](https://www.freecodecamp.org/news/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834/)
