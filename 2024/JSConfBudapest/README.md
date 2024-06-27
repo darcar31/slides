@@ -4,7 +4,7 @@ by Daria Caraway
 [JSConf Budapest Website](https://jsconfbp.com/)
 
 ## Resources
-[Talk Slides](https://github.com/darcar31/slides/blob/main/2024/JSConfBudapest/DecodingPerplexingTypeScript-JSConfBDP.pdf)
+[Talk Slides](https://github.com/darcar31/slides/blob/main/2024/JSConfBudapest/DecodingPerplexingTypescript-JSConfBDP.pdf)
 
 ### Type Example Samples and Inspiration
 
